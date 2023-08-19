@@ -1,0 +1,250 @@
+﻿Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;43760427;2020
+Hartsfield–Jackson Atlanta International Airport;Atlanta, Georgia;United States;42918685;2020
+Chengdu Shuangliu International Airport;Shuangliu-Wuhou, Chengdu, Sichuan;China;40741509;2020
+Dallas/Fort Worth International Airport;Dallas-Fort Worth, Texas;United States;39364990;2020
+Shenzhen Bao'an International Airport;Bao'an, Shenzhen, Guangdong;China;37916059;2020
+Chongqing Jiangbei International Airport;Yubei, Chongqing;China;34937789;2020
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;34513827;2020
+Denver International Airport;Denver, Colorado;United States;33741129;2020
+Kunming Changshui International Airport;Guandu, Kunming, Yunnan;China;32989127;2020
+Shanghai Hongqiao International Airport;Changning-Minhang, Shanghai;China;31165641;2020
+Xi'an Xianyang International Airport;Weicheng, Xianyang, Shaanxi;China;31073884;2020
+Tokyo Haneda Airport;Ōta, Tokyo;Japan;30965027;2020
+O'Hare International Airport;Chicago, Illinois;United States;30860251;2020
+Shanghai Pudong International Airport;Pudong, Shanghai;China;30476531;2020
+Los Angeles International Airport;Los Angeles, California;United States;28779527;2020
+Indira Gandhi International Airport;Delhi;India;28501000;2020
+Hangzhou Xiaoshan International Airport;Xiaoshan, Hangzhou, Zhejiang;China;28224342;2020
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;27200000;2020
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;25900000;2020
+Istanbul Airport;Arnavutköy, Istanbul;Turkey;23409000;2020
+Charles de Gaulle Airport;Roissy-en-France, Île-de-France;France;22257469;2020
+Heathrow Airport;Hillingdon, London;United Kingdom;22109726;2020
+Mexico City International Airport;Venustiano Carranza, Mexico City;Mexico;21981711;2020
+Phoenix Sky Harbor International Airport;Phoenix, Arizona;United States;21928708;2020
+Tan Son Nhat International Airport;Tân Bình District, Ho Chi Minh City;Vietnam;21900000;2020
+Orlando International Airport;Orlando, Florida;United States;21617803;2020
+Zhengzhou Xinzheng International Airport;Xinzheng, Zhengzhou, Henan;China;21406709;2020
+Jeju International Airport;Jeju City, Jeju Province;South Korea;21054696;2020
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland;Netherlands;20887174;2020
+São Paulo/Guarulhos International Airport;Guarulhos;Brazil;20322520;2020
+Seattle–Tacoma International Airport;SeaTac, Washington;United States;20061507;2020
+Nanjing Lukou International Airport;Jiangning District, Nanjing, Jiangsu;China;19906576;2020
+Sheremetyevo International Airport;Khimki, Moscow Oblast;Russia;19784000;2020
+Changsha Huanghua International Airport;Huanghua, Changsha, Hunan;China;19223825;2020
+Frankfurt Airport;Frankfurt, Hesse;Germany;18770998;2020
+Miami International Airport;Miami-Dade County, Florida;United States;18663858;2020
+George Bush Intercontinental Airport;Houston, Texas;United States;18213571;2020
+Gimpo International Airport;Gangseo District, Seoul;South Korea;17446239;2020
+Madrid Barajas Airport;Barajas, Madrid;Spain;17112000;2020
+Istanbul Sabiha Gökçen International Airport;Pendik, Istanbul;Turkey;16982456;2020
+Xiamen Gaoqi International Airport;Huli District, Xiamen, Fujian;China;16710197;2020
+Suvarnabhumi Airport;Bang Phli, Samut Prakan;Thailand;16706000;2020
+John F. Kennedy International Airport;Queens, New York, New York;United States;16630642;2020
+Guiyang Longdongbao International Airport;Nanming District, Guiyang, Guizhou;China;16583878;2020
+Haikou Meilan International Airport;Lingshan, Haikou, Hainan;China;16490216;2020
+Fort Lauderdale–Hollywood International Airport;Broward County, Florida;United States;16484132;2020
+San Francisco International Airport;San Mateo County, California;United States;16409625;2020
+Moscow Domodedovo Airport;Domodedovo, Moscow Oblast;Russia;16300000;2020
+Beijing Daxing International Airport;Daxing District, Beijing;China;16091449;2020
+Newark Liberty International Airport;Newark, New Jersey;United States;15892892;2020
+Hartsfield–Jackson Atlanta International Airport;Atlanta, Georgia;United States;110531300;2019
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;100011438;2019
+Los Angeles International Airport;Los Angeles, California;United States;88068013;2019
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;86396757;2019
+Tokyo Haneda Airport;Ōta, Tokyo;Japan;85505054;2019
+O'Hare International Airport;Chicago, Illinois;United States;84372618;2019
+Heathrow Airport;Hillingdon, London;United Kingdom;80888305;2019
+Shanghai Pudong International Airport;Pudong, Shanghai;China;76153455;2019
+Charles de Gaulle Airport;Roissy-en-France, Île-de-France;France;76150009;2019
+Dallas/Fort Worth International Airport;Dallas-Fort Worth, Texas;United States;75066956;2019
+Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;73378475;2019
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland;Netherlands;71706999;2019
+Hong Kong International Airport;Chek Lap Kok, Islands, New Territories;Hong Kong SAR, China;71415245;2019
+Seoul Incheon International Airport;Incheon;South Korea;71204153;2019
+Frankfurt Airport;Frankfurt, Hesse;Germany;70556072;2019
+Denver International Airport;Denver, Colorado;United States;69015703;2019
+Indira Gandhi International Airport;Delhi;India;68490731;2019
+Singapore Changi Airport;Changi, East Region;Singapore;68283000;2019
+Suvarnabhumi Airport;Bang Phli, Samut Prakan;Thailand;65421844;2019
+John F. Kennedy International Airport;Queens, New York, New York;United States;62551072;2019
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;62336469;2019
+Madrid Barajas Airport;Barajas, Madrid;Spain;61707469;2019
+San Francisco International Airport;San Mateo County, California;United States;57418574;2019
+Chengdu Shuangliu International Airport;Shuangliu-Wuhou, Chengdu, Sichuan;China;55858552;2019
+Soekarno–Hatta International Airport;Tangerang, Banten;Indonesia;54496625;2019
+Shenzhen Bao'an International Airport;Bao'an, Shenzhen, Guangdong;China;52931925;2019
+Barcelona–El Prat Airport;Barcelona;Spain;52663623;2019
+Istanbul Airport;Arnavutköy, Istanbul;Turkey;52009220;2019
+Seattle–Tacoma International Airport;SeaTac, Washington;United States;51829239;2019
+McCarran International Airport;Las Vegas, Nevada;United States;51691066;2019
+Orlando International Airport;Orlando, Florida;United States;50613072;2019
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;50496804;2019
+Mexico City International Airport;Venustiano Carranza, Mexico City;Mexico;50308049;2019
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;50168783;2019
+Sheremetyevo International Airport;Khimki, Moscow Oblast;Russia;49932752;2019
+Taiwan Taoyuan International Airport;Dayuan, Taoyuan;Taiwan;48689372;2019
+Kunming Changshui International Airport;Guandu, Kunming, Yunnan;China;48076238;2019
+Munich Airport;Freising, Bavaria;Germany;47941348;2019
+Ninoy Aquino International Airport;Pasay/Parañaque, Metro Manila;Philippines;47898046;2019
+Xi'an Xianyang International Airport;Weicheng, Xianyang, Shaanxi;China;47220547;2019
+Chhatrapati Shivaji Maharaj International Airport;Mumbai, Maharashtra;India;47055740;2019
+London Gatwick Airport;Crawley, West Sussex;United Kingdom;46576473;2019
+Newark Liberty International Airport;Newark, New Jersey;United States;46336452;2019
+Phoenix Sky Harbor International Airport;Phoenix, Arizona;United States;46287790;2019
+Miami International Airport;Miami-Dade County, Florida;United States;45924466;2019
+Shanghai Hongqiao International Airport;Changning-Minhang, Shanghai;China;45637882;2019
+George Bush Intercontinental Airport;Houston, Texas;United States;44990399;2019
+Chongqing Jiangbei International Airport;Yubei, Chongqing;China;44786722;2019
+Sydney Kingsford-Smith Airport;Mascot, Sydney, New South Wales;Australia;44446838;2019
+Narita International Airport;Narita, Chiba;Japan;44340847;2019
+Hartsfield–Jackson Atlanta International Airport;Atlanta, Georgia;United States;107394029;2018
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;100983290;2018
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;89149387;2018
+Los Angeles International Airport;Los Angeles, California;United States;87534384;2018
+Tokyo Haneda Airport;Ōta, Tokyo;Japan;87502720;2018
+O'Hare International Airport;Chicago, Illinois;United States;83339186;2018
+Heathrow Airport;Hillingdon, London;United Kingdom;80126320;2018
+Hong Kong International Airport;Chek Lap Kok, Islands, New Territories;Hong Kong SAR, China;74517402;2018
+Shanghai Pudong International Airport;Pudong, Shanghai;China;74006331;2018
+Charles de Gaulle Airport;Roissy-en-France, Île-de-France;France;72229723;2018
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland;Netherlands;71053147;2018
+Indira Gandhi International Airport;Delhi;India;69900938;2018
+Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;69769497;2018
+Frankfurt Airport;Frankfurt, Hesse;Germany;69510269;2018
+Dallas/Fort Worth International Airport;Dallas-Fort Worth, Texas;United States;69112607;2018
+Seoul Incheon International Airport;Incheon;South Korea;68350784;2018
+Istanbul Atatürk Airport;Yeşilköy, Istanbul;Turkey;68192683;2018
+Soekarno–Hatta International Airport;Tangerang, Banten;Indonesia;66908159;2018
+Singapore Changi Airport;Changi, East Region;Singapore;65628000;2018
+Denver International Airport;Denver, Colorado;United States;64494613;2018
+Suvarnabhumi Airport;Bang Phli, Samut Prakan;Thailand;63378923;2018
+John F. Kennedy International Airport;Queens, New York, New York;United States;61623756;2018
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;60013397;2018
+Madrid Barajas Airport;Barajas, Madrid;Spain;57862951;2018
+San Francisco International Airport;San Mateo County, California;United States;57708196;2018
+Chengdu Shuangliu International Airport;Shuangliu-Wuhou, Chengdu, Sichuan;China;52950529;2018
+Barcelona–El Prat Airport;Barcelona;Spain;50148228;2018
+Chhatrapati Shivaji Maharaj International Airport;Mumbai, Maharashtra;India;49876769;2018
+McCarran International Airport;Las Vegas, Nevada;United States;49863090;2018
+Seattle–Tacoma International Airport;SeaTac, Washington;United States;49849520;2018
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;49467097;2018
+Shenzhen Bao'an International Airport;Bao'an, Shenzhen, Guangdong;China;49348950;2018
+Mexico City International Airport;Venustiano Carranza, Mexico City;Mexico;47700834;2018
+Orlando International Airport;Orlando, Florida;United States;47694573;2018
+Kunming Changshui International Airport;Guandu, Kunming, Yunnan;China;47215986;2018
+Taiwan Taoyuan International Airport;Dayuan, Taoyuan;Taiwan;46535180;2018
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;46446721;2018
+London Gatwick Airport;Crawley, West Sussex;United Kingdom;46432630;2018
+Munich Airport;Freising, Bavaria;Germany;46253623;2018
+Newark Liberty International Airport;Newark, New Jersey;United States;46065175;2018
+Sheremetyevo International Airport;Khimki, Moscow Oblast;Russia;45836255;2018
+Miami International Airport;Miami-Dade County, Florida;United States;45044312;2018
+Phoenix Sky Harbor International Airport;Phoenix, Arizona;United States;44943686;2018
+Xi'an Xianyang International Airport;Weicheng, Xianyang, Shaanxi;China;44653927;2018
+Ninoy Aquino International Airport;Pasay/Parañaque, Metro Manila;Philippines;44488321;2018
+Sydney Kingsford-Smith Airport;Mascot, Sydney, New South Wales;Australia;44475976;2018
+George Bush Intercontinental Airport;Houston, Texas;United States;43807539;2018
+Shanghai Hongqiao International Airport;Changning-Minhang, Shanghai;China;43628004;2018
+Rome–Fiumicino International Airport;Rome-Fiumicino, Lazio;Italy;42991056;2018
+Narita International Airport;Narita, Chiba;Japan;42549173;2018
+Hartsfield–Jackson Atlanta International Airport;Atlanta, Georgia;United States;103902992;2017
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;95786442;2017
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;88242099;2017
+Los Angeles International Airport;Los Angeles, California;United States;84557968;2017
+O'Hare International Airport;Chicago, Illinois;United States;79828183;2017
+Heathrow Airport;Hillingdon, London;United Kingdom;78014598;2017
+Tokyo Haneda Airport;Ōta, Tokyo;Japan;76476251;2017
+Hong Kong International Airport;Chek Lap Kok, Islands, New Territories;Hong Kong SAR, China;72665078;2017
+Shanghai Pudong International Airport;Pudong, Shanghai;China;70001237;2017
+Charles de Gaulle Airport;Roissy-en-France, Île-de-France;France;69471442;2017
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland;The Netherlands;68515425;2017
+Dallas/Fort Worth International Airport;Dallas-Fort Worth, Texas;United States;67092194;2017
+Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;65887473;2017
+Frankfurt Airport;Frankfurt, Hesse;Germany;64500386;2017
+Istanbul Atatürk Airport;Yeşilköy, Istanbul;Turkey;63859785;2017
+Indira Gandhi International Airport;Delhi;India;63451503;2017
+Soekarno-Hatta International Airport;Tangerang, Banten;Indonesia;63015620;2017
+Singapore Changi Airport;Changi, East Region;Singapore;62220000;2017
+Seoul Incheon International Airport;Incheon;Republic of Korea;62157834;2017
+Denver International Airport;Denver, Colorado;United States;61379396;2017
+Suvarnabhumi Airport;Bang Phli, Samut Prakan;Thailand;60860557;2017
+John F. Kennedy International Airport;Queens, New York, New York;United States;59392500;2017
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;58558440;2017
+San Francisco International Airport;San Mateo County, California;United States;55822129;2017
+Madrid Barajas Airport;Barajas, Madrid;Spain;53386075;2017
+Chengdu Shuangliu International Airport;Shuangliu-Wuhou, Chengdu, Sichuan;China;49801693;2017
+McCarran International Airport;Las Vegas, Nevada;United States;48566803;2017
+Barcelona–El Prat Airport;Barcelona;Spain;47262826;2017
+Chhatrapati Shivaji Maharaj International Airport;Mumbai, Maharashtra;India;47204259;2017
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;47054696;2017
+Seattle–Tacoma International Airport;SeaTac, Washington;United States;46934194;2017
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;45909899;2017
+London Gatwick Airport;Crawley, West Sussex;United Kingdom;45561694;2017
+Shenzhen Bao'an International Airport;Bao'an, Shenzhen, Guangdong;China;45558409;2017
+Taiwan Taoyuan International Airport;Dayuan, Taoyuan;Taiwan;44878703;2017
+Mexico City International Airport;Venustiano Carranza, Mexico City;Mexico;44732418;2017
+Kunming Changshui International Airport;Guandu, Kunming, Yunnan;China;44729736;2017
+Munich Airport;Freising, Bavaria;Germany;44577241;2017
+Orlando International Airport;Orlando, Florida;United States;44511265;2017
+Miami International Airport;Miami-Dade County, Florida;United States;44071313;2017
+Phoenix Sky Harbor International Airport;Phoenix, Arizona;United States;43921670;2017
+Sydney Kingsford-Smith Airport;Mascot, Sydney, New South Wales;Australia;43410355;2017
+Newark Liberty International Airport;Newark, New Jersey;United States;43393499;2017
+Ninoy Aquino International Airport;Pasay/Parañaque, Metro Manila;Philippines;42022484;2017
+Shanghai Hongqiao International Airport;Changning-Minhang, Shanghai;China;41884059;2017
+Xi'an Xianyang International Airport;Weicheng, Xianyang, Shaanxi;China;41857406;2017
+Rome–Fiumicino International Airport;Rome-Fiumicino, Lazio;Italy;40968756;2017
+George Bush Intercontinental Airport;Houston, Texas;United States;40696189;2017
+Narita International Airport;Narita, Chiba;Japan;40631193;2017
+Sheremetyevo International Airport;Khimki, Moscow Oblast;Russia;40092806;2017
+Hartsfield–Jackson Atlanta International Airport;Atlanta, Georgia;United States;104171935;2016
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;94393454;2016
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;83654250;2016
+Los Angeles International Airport;Los Angeles, California;United States;80921527;2016
+Tokyo Haneda Airport;Ōta, Tokyo;Japan;79699762;2016
+O'Hare International Airport;Chicago, Illinois;United States;78327479;2016
+Heathrow Airport;Hillingdon, London;United Kingdom;75715474;2016
+Hong Kong International Airport;Chek Lap Kok, Islands, New Territories;Hong Kong SAR, China;70314462;2016
+Shanghai Pudong International Airport;Pudong, Shanghai;China;66002414;2016
+Charles de Gaulle Airport;Roissy-en-France, Île-de-France;France;65933145;2016
+Dallas/Fort Worth International Airport;Dallas-Fort Worth, Texas;United States;65670697;2016
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland;The Netherlands;63625534;2016
+Frankfurt Airport;Frankfurt, Hesse;Germany;60786937;2016
+Istanbul Atatürk Airport;Yeşilköy, Istanbul;Turkey;60248741;2016
+Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;59732147;2016
+John F. Kennedy International Airport;Queens, New York City, New York;United States;58813103;2016
+Singapore Changi Airport;Changi, East Region;Singapore;58698000;2016
+Denver International Airport;Denver, Colorado;United States;58266515;2016
+Seoul Incheon International Airport;Incheon;Republic of Korea;57849814;2016
+Suvarnabhumi Airport;Bang Phli, Samut Prakan;Thailand;55892428;2016
+Indira Gandhi International Airport;Delhi;India;55631385;2016
+Soekarno–Hatta International Airport;Tangerang, Banten;Indonesia;54969536;2016
+San Francisco International Airport;San Mateo County, California;United States;53099282;2016
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;52640043;2016
+Madrid Barajas Airport;Barajas, Madrid;Spain;50397928;2016
+McCarran International Airport;Las Vegas, Nevada;United States;47496614;2016
+Chengdu Shuangliu International Airport;Shuangliu-Wuhou, Chengdu, Sichuan;China;46039137;2016
+Seattle–Tacoma International Airport;SeaTac, Washington;United States;45736700;2016
+Chhatrapati Shivaji Maharaj International Airport;Mumbai, Maharashtra;India;44680555;2016
+Miami International Airport;Miami-Dade County, Florida;United States;44584603;2016
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;44422022;2016
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;44335198;2016
+Barcelona–El Prat Airport;Barcelona;Spain;44131031;2016
+Phoenix Sky Harbor International Airport;Phoenix, Arizona;United States;43302381;2016
+London Gatwick Airport;Crawley, West Sussex;United Kingdom;43136795;2016
+Taiwan Taoyuan International Airport;Dayuan, Taoyuan;Taiwan;42296322;2016
+Munich Airport;Freising, Bavaria;Germany;42261309;2016
+Sydney Kingsford-Smith Airport;Mascot, Sydney, New South Wales;Australia;41985810;2016
+Kunming Changshui International Airport;Guandu, Kunming, Yunnan;China;41980515;2016
+Shenzhen Bao'an International Airport;Bao'an, Shenzhen, Guangdong;China;41975090;2016
+Orlando International Airport;Orlando, Florida;United States;41923399;2016
+Rome–Fiumicino International Airport;Rome-Fiumicino, Lazio;Italy;41738662;2016
+George Bush Intercontinental Airport;Houston, Texas;United States;41622594;2016
+Mexico City International Airport;Venustiano Carranza, Mexico City;Mexico;41410254;2016
+Shanghai Hongqiao International Airport;Changning-Minhang, Shanghai;China;40460135;2016
+Newark Liberty International Airport;Newark, New Jersey;United States;40289969;2016
+Ninoy Aquino International Airport;Pasay/Parañaque, Metro Manila;Philippines;39534991;2016
+Narita International Airport;Narita, Chiba;Japan;39000563;2016
+Minneapolis/St Paul International Airport;St. Paul, Minnesota;United States;37413728;2016
+Hamad International Airport;Doha;Qatar;37283987;2016
